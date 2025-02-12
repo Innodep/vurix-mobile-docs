@@ -1,0 +1,56 @@
+{
+    "name": "Vurix Mobile Docs",
+    "theme": {
+        "primary": "#4B9EF4"
+    },
+    "favicon": "https://github.com/innodep-joonk/vurix_mobile_documentation/blob/main/assets/vurix-logo.png?raw=true",
+    "logo": {
+        "light": "https://github.com/innodep-joonk/vurix_mobile_documentation/blob/main/assets/vurix-logo.png?raw=true",
+        "dark": "https://github.com/innodep-joonk/vurix_mobile_documentation/blob/main/assets/vurix-logo.png?raw=true"
+    },
+    "anchors": [
+        {
+            "title": "Homepage",
+            "icon": "house",
+            "href": "https://innodep.co.kr/renew/eng/"
+        }
+    ],
+    "sidebar": [
+        {
+            "group": "Getting Started",
+            "pages": [
+                {
+                    "title": "Getting Started",
+                    "href": "/",
+                    "icon": "circle-info"
+                },
+                {
+                    "title": "Overview",
+                    "href": "/overview",
+                    "icon": "book"
+                }
+            ]
+        },
+        {
+            "group": "How-to-use",
+            "pages": [
+                {
+                    "title": "Login",
+                    "href": "/login"
+                },
+                {
+                    "title": "Live",
+                    "href": "/live"
+                },
+                {
+                    "title": "Record",
+                    "href": "/record"
+                },
+                {
+                    "title": "Settings",
+                    "href": "/settings"
+                }
+            ]
+        }
+    ]
+}
