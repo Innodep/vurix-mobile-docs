@@ -18,55 +18,59 @@
             "href": "https://innodep.co.kr/renew/eng/"
         }
     ],
-    "sidebar": [
-        {
-            "group": "Getting Started",
-            "pages": [
-                {
-                    "title": "Getting Started",
-                    "href": "/",
-                    "icon": "circle-info"
-                },
-                {
-                    "title": "Overview",
-                    "href": "/overview",
-                    "icon": "book"
-                }
-            ]
-        },
-        {
-            "group": "How-to-use",
-            "pages": [
-                {
-                    "title": "Login",
-                    "href": "/login"
-                },
-                {
-                    "title": "Live",
-                    "href": "/live"
-                },
-                {
-                    "title": "Record",
-                    "href": "/record"
-                },
-                {
-                    "title": "Settings",
-                    "href": "/settings"
-                }
-            ]
-        },
-        {
-            "group": "Misc.",
-            "pages": [
-                {
-                    "title": "Open Source",
-                    "href": "/opensource"
-                },
-                {
-                    "title": "Customer Support",
-                    "href": "/customer-support"
-                }
-            ]
-        }
-    ]
+    "sidebar": {
+        "default": [
+            {
+                "group": "Getting Started",
+                "pages": [
+                    {
+                        "title": "Getting Started",
+                        "href": "/",
+                        "icon": "circle-info"
+                    },
+                    {
+                        "title": "Overview",
+                        "href": "/overview",
+                        "icon": "book"
+                    }
+                ]
+            },
+            {
+                "group": "How-to-use",
+                "pages": [
+                    {
+                        "title": "Login",
+                        "href": "/login"
+                    },
+                    {
+                        "title": "Live",
+                        "href": "/live"
+                    },
+                    {
+                        "title": "Record",
+                        "href": "/record"
+                    },
+                    {
+                        "title": "Settings",
+                        "href": "/settings"
+                    }
+                ]
+            },
+            {
+                "group": "Misc.",
+                "pages": [
+                    {
+                        "title": "Open Source",
+                        "href": "/opensource"
+                    },
+                    {
+                        "title": "Customer Support",
+                        "href": "/customer-support"
+                    }
+                ]
+            }
+        ],
+        "en": [],
+        "ko": []
+    }
 }
