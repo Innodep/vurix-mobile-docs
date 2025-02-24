@@ -70,7 +70,107 @@
                 ]
             }
         ],
-        "en": [],
-        "ko": []
+        "en": [
+            {
+                "group": "Getting Started",
+                "pages": [
+                    {
+                        "title": "Getting Started",
+                        "href": "/",
+                        "icon": "circle-info"
+                    },
+                    {
+                        "title": "Overview",
+                        "href": "/overview",
+                        "icon": "book"
+                    }
+                ]
+            },
+            {
+                "group": "How-to-use",
+                "pages": [
+                    {
+                        "title": "Login",
+                        "href": "/login"
+                    },
+                    {
+                        "title": "Live",
+                        "href": "/live"
+                    },
+                    {
+                        "title": "Record",
+                        "href": "/record"
+                    },
+                    {
+                        "title": "Settings",
+                        "href": "/settings"
+                    }
+                ]
+            },
+            {
+                "group": "Misc.",
+                "pages": [
+                    {
+                        "title": "Open Source",
+                        "href": "/opensource"
+                    },
+                    {
+                        "title": "Customer Support",
+                        "href": "/customer-support"
+                    }
+                ]
+            }
+        ],
+        "ko": [
+            {
+                "group": "Getting Started",
+                "pages": [
+                    {
+                        "title": "Getting Started",
+                        "href": "/",
+                        "icon": "circle-info"
+                    },
+                    {
+                        "title": "Overview",
+                        "href": "/overview",
+                        "icon": "book"
+                    }
+                ]
+            },
+            {
+                "group": "How-to-use",
+                "pages": [
+                    {
+                        "title": "Login",
+                        "href": "/login"
+                    },
+                    {
+                        "title": "Live",
+                        "href": "/live"
+                    },
+                    {
+                        "title": "Record",
+                        "href": "/record"
+                    },
+                    {
+                        "title": "Settings",
+                        "href": "/settings"
+                    }
+                ]
+            },
+            {
+                "group": "Misc.",
+                "pages": [
+                    {
+                        "title": "Open Source",
+                        "href": "/opensource"
+                    },
+                    {
+                        "title": "Customer Support",
+                        "href": "/customer-support"
+                    }
+                ]
+            }
+        ]
     }
 }
