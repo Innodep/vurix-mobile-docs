@@ -54,6 +54,15 @@
                     "href": "/settings"
                 }
             ]
+        },
+        {
+            "group": "Misc.",
+            "pages": [
+                {
+                    "title": "Open Source",
+                    "href": "/opensource"
+                }
+            ]
         }
     ]
 }
