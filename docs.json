@@ -74,6 +74,10 @@
                     {
                         "title": "Customer Support",
                         "href": "/customer-support"
+                    },
+                    {
+                        "title": "Privacy policy",
+                        "href": "/privacy-policy"
                     }
                 ]
             }
@@ -106,8 +110,20 @@
                         "href": "/live"
                     },
                     {
-                        "title": "Record",
-                        "href": "/record"
+                        "title": "Control",
+                        "href": "/control"
+                    },
+                    {
+                        "title": "Video Archive",
+                        "href": "/video-archive"
+                    },
+                    {
+                        "title": "Search",
+                        "href": "/search"
+                    },
+                    {
+                        "title": "Mypage",
+                        "href": "/mypage"
                     },
                     {
                         "title": "Settings",
@@ -157,8 +173,20 @@
                         "href": "/live"
                     },
                     {
-                        "title": "Record",
-                        "href": "/record"
+                        "title": "Control",
+                        "href": "/control"
+                    },
+                    {
+                        "title": "Video Archive",
+                        "href": "/video-archive"
+                    },
+                    {
+                        "title": "Search",
+                        "href": "/search"
+                    },
+                    {
+                        "title": "Mypage",
+                        "href": "/mypage"
                     },
                     {
                         "title": "Settings",
