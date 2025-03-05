@@ -5,8 +5,8 @@
     },
     "favicon": "https://github.com/Innodep/vurix-mobile-docs/blob/main/assets/vurix-favicon.png?raw=true",
     "logo": {
-        "light": "https://github.com/Innodep/vurix-mobile-docs/blob/main/assets/vurix_logo_light.png?raw=true",
-        "dark": "https://github.com/Innodep/vurix-mobile-docs/blob/main/assets/vurix_logo_dark.png?raw=true"
+        "light": "https://github.com/Innodep/vurix-mobile-docs/blob/main/assets/vurix-logo-light.png?raw=true",
+        "dark": "https://github.com/Innodep/vurix-mobile-docs/blob/main/assets/vurix-logo-dark.png?raw=true"
     },
     "header": {
         "showGitHubCard": false,
@@ -28,11 +28,6 @@
                         "title": "Getting Started",
                         "href": "/",
                         "icon": "circle-info"
-                    },
-                    {
-                        "title": "Overview",
-                        "href": "/overview",
-                        "icon": "book"
                     }
                 ]
             },
@@ -48,8 +43,20 @@
                         "href": "/live"
                     },
                     {
-                        "title": "Record",
-                        "href": "/record"
+                        "title": "Control",
+                        "href": "/control"
+                    },
+                    {
+                        "title": "Video Archive",
+                        "href": "/video-archive"
+                    },
+                    {
+                        "title": "Search",
+                        "href": "/search"
+                    },
+                    {
+                        "title": "Mypage",
+                        "href": "/mypage"
                     },
                     {
                         "title": "Settings",
